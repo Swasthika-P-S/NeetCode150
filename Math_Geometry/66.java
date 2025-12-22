@@ -1,4 +1,4 @@
-package Math_Geometry;
+
 class Solution {
     public int[] plusOne(int[] digits) {
         int n = digits.length;

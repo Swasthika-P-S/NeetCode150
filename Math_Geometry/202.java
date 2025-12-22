@@ -1,4 +1,4 @@
-package Math_Geometry;
+
 class Solution {
     public boolean isHappy(int n) {
         if(n ==1 || n==7){
